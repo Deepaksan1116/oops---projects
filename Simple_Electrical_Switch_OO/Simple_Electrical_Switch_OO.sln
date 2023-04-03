@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_Electrical_Switch_OO", "Simple_Electrical_Switch_OO\Simple_Electrical_Switch_OO.csproj", "{56289657-A06B-43B1-81C1-85D4ED177DAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_Electrical_Switch_Console_App", "Simple_Electrical_Switch_Console_App\Simple_Electrical_Switch_Console_App.csproj", "{52A10379-59E4-4D90-9746-A4E70B0CAD08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56289657-A06B-43B1-81C1-85D4ED177DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56289657-A06B-43B1-81C1-85D4ED177DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56289657-A06B-43B1-81C1-85D4ED177DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56289657-A06B-43B1-81C1-85D4ED177DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A10379-59E4-4D90-9746-A4E70B0CAD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A10379-59E4-4D90-9746-A4E70B0CAD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A10379-59E4-4D90-9746-A4E70B0CAD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A10379-59E4-4D90-9746-A4E70B0CAD08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
